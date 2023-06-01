@@ -1,7 +1,5 @@
 package med.voll.api.domain.consulta;
 
-// Trecho de código suprimido
-
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
